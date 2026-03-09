@@ -1,6 +1,4 @@
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=InryeolChoi)
-
-Welcome to the github of InryeolChoi!
+**Welcome to the github of InryeolChoi!**
 
 ## I'm focusing on ...
 
