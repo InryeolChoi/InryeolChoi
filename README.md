@@ -1,36 +1,74 @@
-**Welcome to the github of InryeolChoi!**
+<h1 align="center">
+Hi 👋 I'm Inryeol Choi
+</h1>
 
-## I'm focusing on ...
+<p align="center">
+Backend Developer • Java • Spring • Cloud
+</p>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Backend+Developer;Java+%7C+Spring+%7C+Cloud;Systems+%26+Database+Enthusiast" />
+</p>
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AmazonAWS-232F3E?style=for-the-badge&logo=AWS&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Github Action](https://img.shields.io/badge/GitHubActions-2088FF?style=for-the-badge&logo=GitHubActions&logoColor=white)
+---
 
-## I've experienced ...
+# 🚀 Core Tech Stack
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,linux,docker,mysql,aws,nginx,githubactions" />
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=Node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=white)
-![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
+---
 
-![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=green)
+# 🧠 Experienced With
 
-## I've played with ...
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,git,nodejs,js,react,python,django" />
+</p>
 
-![Swift](https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+---
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=InryeolChoi)
-![GitHub Streak](https://streak-stats.demolab.com?user=InryeolChoi)]
+# 🧪 Played With
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=swift,r" />
+</p>
 
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=InryeolChoi&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=InryeolChoi&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/InryeolChoi/InryeolChoi/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 📌 About Me
+
+- Backend Developer focused on **Java / Spring**
+- Interested in **Database Internals**
+- Interested in **System Design**
+- Experience with **Cloud / Container deployment**
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=InryeolChoi&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
