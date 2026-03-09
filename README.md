@@ -33,6 +33,6 @@ Welcome to the github of InryeolChoi!
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=InryeolChoi)
-![GitHub Streak](https://streak-stats.demolab.com?user=InryeolChoi)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=InryeolChoi)]
 
 
