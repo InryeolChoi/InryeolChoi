@@ -1,6 +1,5 @@
 [![InryeolChoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=InryeolChoi)](https://github.com/anuraghazra/github-readme-stats)
 
-
 Welcome to the github of InryeolChoi!
 
 ## I'm focusing on ...
@@ -32,3 +31,9 @@ Welcome to the github of InryeolChoi!
 
 ![Swift](https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InryeolChoi&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=InryeolChoi)](https://git.io/streak-stats)
+
+
+
