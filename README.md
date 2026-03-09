@@ -1,4 +1,4 @@
-[![InryeolChoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=InryeolChoi)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=InryeolChoi)](https://github.com/anuraghazra/github-readme-stats)
 
 Welcome to the github of InryeolChoi!
 
