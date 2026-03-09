@@ -3,11 +3,8 @@ Hi 👋 I'm Inryeol Choi
 </h1>
 
 <p align="center">
-Backend Developer • Java • Spring • Cloud
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Backend+Developer;Java+%7C+Spring+%7C+Cloud;Systems+%26+Database+Enthusiast" />
+Curious about how systems work and always eager to build things from scratch.  
+I enjoy solving problems, exploring new technologies, and pushing my limits.
 </p>
 
 ---
