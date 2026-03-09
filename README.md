@@ -12,6 +12,15 @@ Backend Developer • Java • Spring • Cloud
 
 ---
 
+# 📌 About Me
+
+- Backend Developer focused on **Java / Spring**
+- Interested in **Database Internals**
+- Interested in **System Design**
+- Experience with **Cloud / Container deployment**
+
+---
+
 # 🚀 Core Tech Stack
 
 <p align="center">
@@ -52,20 +61,15 @@ Backend Developer • Java • Spring • Cloud
 
 ---
 
-# 🐍 Contribution Snake
+## 📊 GitHub Dashboard
 
 <p align="center">
-<img src="https://github.com/InryeolChoi/InryeolChoi/blob/output/github-contribution-grid-snake.svg" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=InryeolChoi&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=InryeolChoi&theme=tokyo-night&hide_border=true"/>
+
 </p>
-
----
-
-# 📌 About Me
-
-- Backend Developer focused on **Java / Spring**
-- Interested in **Database Internals**
-- Interested in **System Design**
-- Experience with **Cloud / Container deployment**
 
 ---
 
