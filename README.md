@@ -20,7 +20,7 @@ Curious about how things work under the hood and always pushing myself to learn 
 ### Experienced With
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,git,nodejs,js,react,python,fastapi,django"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,git,js,ts,react,python,fastapi,django"/>
 </p>
 
 ### Explored
