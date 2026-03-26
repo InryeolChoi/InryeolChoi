@@ -14,19 +14,19 @@ Curious about how things work under the hood and always pushing myself to learn 
 ### Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,linux,docker,mysql,gcp,githubactions"/>
+<img src="https://skillicons.dev/icons?i=java,spring,linux,docker,mysql"/>
 </p>
 
 ### Familiar With
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,git,python,fastapi,django,postgres,aws,nginx"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,git,python,django,postgres"/>
 </p>
 
 ### Explored
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,swift,r"/>
+<img src="https://skillicons.dev/icons?i=r,js,ts,react,nextjs,swift,fastapi"/>
 </p>
 ---
 
