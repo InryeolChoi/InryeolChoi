@@ -26,7 +26,7 @@ Curious about how things work under the hood and always pushing myself to learn 
 ### Explored
 
 <p>
-<img src="https://skillicons.dev/icons?i=r,js,ts,react,nextjs,swift,fastapi"/>
+<img src="https://skillicons.dev/icons?i=r,js,ts,react,swift,fastapi"/>
 </p>
 ---
 
