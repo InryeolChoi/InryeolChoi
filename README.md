@@ -24,7 +24,7 @@ Interested in building high-availability systems and scalable backend architectu
 ### Familiar With
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,django,git,postgres,githubactions,gcp"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,django,git,postgres,githubactions"/>
 </p>
 
 ### Explored
