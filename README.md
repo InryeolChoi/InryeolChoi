@@ -23,16 +23,10 @@ Curious about how things work under the hood and always pushing myself to learn 
 <img src="https://skillicons.dev/icons?i=c,cpp,git,python,fastapi,django,postgres"/>
 </p>
 
-### Exposure
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,react"/>
-</p>
-
 ### Explored
 
 <p>
-<img src="https://skillicons.dev/icons?i=swift,r"/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,swift,r"/>
 </p>
 ---
 
