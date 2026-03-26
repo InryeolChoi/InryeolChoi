@@ -1,9 +1,11 @@
 <h1 align="center">Inryeol Choi</h1>
 
 <p align="center">
-I enjoy tackling hard problems and turning ideas into working systems.<br/>
-Curious about how things work under the hood and always pushing myself to learn more.
-</p>
+Backend developer focused on building reliable systems and understanding how things work under the hood.
+
+I design and implement server architectures with attention to data consistency, transaction flow, and real-world constraints.
+
+Interested in building high-availability systems and scalable backend architectures.</p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=InryeolChoi&style=flat&color=0e75b6"/>
@@ -14,13 +16,13 @@ Curious about how things work under the hood and always pushing myself to learn 
 ### Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,linux,python,django,docker"/>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,linux,docker,gcp"/>
 </p>
 
 ### Familiar With
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,git,mysql,postgres,githubactions,gcp"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,django,git,postgres,githubactions,gcp"/>
 </p>
 
 ### Explored
