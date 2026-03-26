@@ -17,10 +17,16 @@ Curious about how things work under the hood and always pushing myself to learn 
 <img src="https://skillicons.dev/icons?i=java,spring,linux,docker,mysql,aws,nginx,githubactions"/>
 </p>
 
-### Experienced With
+### Familiar With
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,git,js,ts,react,python,fastapi,django"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,git,python,fastapi,django,postgres"/>
+</p>
+
+### Exposure
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,react"/>
 </p>
 
 ### Explored
@@ -28,7 +34,6 @@ Curious about how things work under the hood and always pushing myself to learn 
 <p>
 <img src="https://skillicons.dev/icons?i=swift,r"/>
 </p>
-
 ---
 
 ### GitHub Activity
