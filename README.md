@@ -1,10 +1,6 @@
 <h1 align="center">Inryeol Choi</h1>
 
 <p align="center">
-💻 Backend Developer
-</p>
-
-<p align="center">
 Building <b>reliable systems</b> with strong attention to  
 <b>data consistency</b> and <b>transaction flow</b>
 </p>
