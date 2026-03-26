@@ -1,15 +1,11 @@
 <h1 align="center">Inryeol Choi</h1>
 
 <p align="center">
-Backend developer focused on building reliable systems and understanding how things work under the hood.
+- Backend developer focused on building reliable systems and understanding how things work under the hood.
+- I design and implement server architectures with attention to data consistency, transaction flow, and real-world constraints.
+- Interested in building high-availability systems and scalable backend architectures.
 </p>
-<p align="center">
-I design and implement server architectures with attention to data consistency, transaction flow, and real-world constraints.
-</p>
-<p align="center">
-Interested in building high-availability systems and scalable backend architectures.
 
-</p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=InryeolChoi&style=flat&color=0e75b6"/>
 </p>
