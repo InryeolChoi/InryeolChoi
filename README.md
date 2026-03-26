@@ -1,15 +1,20 @@
 <h1 align="center">Inryeol Choi</h1>
 
 <p align="center">
-Backend developer focused on building reliable systems with strong attention to data consistency and transaction flow.
+💻 Backend Developer
 </p>
 
 <p align="center">
-I design and implement server architectures considering real-world constraints, scalability, and maintainability.
+Building <b>reliable systems</b> with strong attention to  
+<b>data consistency</b> and <b>transaction flow</b>
 </p>
 
 <p align="center">
-Interested in high-availability systems and scalable backend architectures.
+⚙️ Designing backend architectures for real-world constraints, scalability, and maintainability  
+</p>
+
+<p align="center">
+🚀 Interested in high-availability systems & scalable backend architectures  
 </p>
 
 <p align="center">
