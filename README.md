@@ -7,7 +7,8 @@ Backend developer focused on building reliable systems and understanding how thi
 I design and implement server architectures with attention to data consistency, transaction flow, and real-world constraints.
 </p>
 <p align="center">
-Interested in building high-availability systems and scalable backend architectures.</p>
+Interested in building high-availability systems and scalable backend architectures.
+
 </p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=InryeolChoi&style=flat&color=0e75b6"/>
@@ -15,10 +16,17 @@ Interested in building high-availability systems and scalable backend architectu
 
 ---
 
+## Core Strengths
+- Designing transaction flows with data consistency guarantees
+- Building backend architectures with Spring (layered structure, API design)
+- Understanding system internals (Linux, process, file descriptor, IO)
+ 
+---
+
 ### Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,linux,docker,gcp"/>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,linux,docker,gcp,nginx"/>
 </p>
 
 ### Familiar With
