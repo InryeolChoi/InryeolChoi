@@ -1,9 +1,15 @@
 <h1 align="center">Inryeol Choi</h1>
 
 <p align="center">
-- Backend developer focused on building reliable systems and understanding how things work under the hood.
-- I design and implement server architectures with attention to data consistency, transaction flow, and real-world constraints.
-- Interested in building high-availability systems and scalable backend architectures.
+Backend developer focused on building reliable systems with strong attention to data consistency and transaction flow.
+</p>
+
+<p align="center">
+I design and implement server architectures considering real-world constraints, scalability, and maintainability.
+</p>
+
+<p align="center">
+Interested in high-availability systems and scalable backend architectures.
 </p>
 
 <p align="center">
@@ -13,32 +19,46 @@
 ---
 
 ## Core Strengths
-- Designing transaction flows with data consistency guarantees
-- Building backend architectures with Spring (layered structure, API design)
-- Understanding system internals (Linux, process, file descriptor, IO)
- 
+
+- Designing transaction flows with data consistency guarantees  
+- Building backend architectures with Spring (layered structure, REST API design)  
+- Understanding system internals (Linux, process, file descriptor, IO)  
+
 ---
 
-### Tech Stack
+## Tech Stack
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,linux,docker,gcp,nginx"/>
 </p>
 
-### Familiar With
+---
+
+## Familiar With
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,python,django,git,postgres,githubactions"/>
 </p>
 
-### Explored
+---
+
+## Explored
 
 <p>
 <img src="https://skillicons.dev/icons?i=r,js,ts,react,swift,fastapi"/>
 </p>
+
 ---
 
-### GitHub Activity
+## Philosophy
+
+- I focus on **why systems fail and how to make them reliable**
+- I value **clear structure and responsibility separation over quick implementation**
+- I aim to build systems that **work correctly under real-world conditions**
+
+---
+
+## GitHub Activity
 
 <p align="center">
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=InryeolChoi&theme=tokyonight&hide_border=true"/>
