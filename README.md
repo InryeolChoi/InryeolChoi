@@ -20,7 +20,7 @@ Curious about how things work under the hood and always pushing myself to learn 
 ### Familiar With
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,git,python,django,postgres,gcp"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,django,git,postgres,gcp"/>
 </p>
 
 ### Explored
