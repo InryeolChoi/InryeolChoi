@@ -64,7 +64,3 @@ Building <b>reliable systems</b> with strong attention to
 <p align="center">
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=InryeolChoi&theme=tokyonight&hide_border=true"/>
 </p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=InryeolChoi&theme=tokyo-night&hide_border=true"/>
-</p>
