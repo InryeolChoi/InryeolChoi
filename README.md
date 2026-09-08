@@ -46,7 +46,7 @@ Building <b>reliable systems</b> with strong attention to
 ## Explored
 
 <p>
-<img src="https://skillicons.dev/icons?i=r,js,ts,react,swift,fastapi"/>
+<img src="https://skillicons.dev/icons?i=r,js,ts,go,react,swift,fastapi"/>
 </p>
 
 ---
